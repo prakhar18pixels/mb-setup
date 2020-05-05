@@ -1,0 +1,17 @@
+{
+  "name": "hinduja_mountebank",
+  "version": "1.0.0",
+  "description": "API mocking service for Hinduja TE Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mountebank": "^2.2.1",
+    "node-fetch": "^2.6.0"
+  }
+}

@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+/notes
+/pid
+/log
+/protofile
